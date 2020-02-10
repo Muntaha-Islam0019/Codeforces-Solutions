@@ -1,0 +1,5 @@
+# HackerRank-Solutions
+
+Codeforces is a website that hosts competitive programming contests. It is maintained by a group of competitive programmers from ITMO University led by Mikhail Mirzayanov. Since 2013, Codeforces claims to surpass Topcoder in terms of active contestants. As of 2018, it has over 600,000 registered users.
+
+Initially, I want to point out a situation that I am not a pro-programmer! I'm adding these solutions for everyone who wants to be benefited, including me! These are my solutions for problems from HackerRank. I'll try to add more and solutions gradually. Also, I kept it open for all. So, you can obviously commit or fork it out. Sometimes, as much I have experienced, we all need help to find solution of a particular problem or we want to check other avialable solutions to find the most efficient one. I am not saying that these are the most efficient solution, but I hope these solutions will help you out in some way. Also, I'll be honored if you suggest another algorithm to solve a particular problem. So, each of your commit will help other programmers. Happy coding!
