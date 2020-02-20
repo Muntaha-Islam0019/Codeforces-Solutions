@@ -1,6 +1,6 @@
 import java.util.Scanner ;
 
-public class P_672_A {
+public class P_672A {
     public static void main(String [] args){
         Scanner me=new Scanner(System.in);
         int n =me.nextInt();

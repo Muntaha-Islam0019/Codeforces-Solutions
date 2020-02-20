@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class P_114A_J
+public class P_114A
 {
     public static void main(String []args){
         

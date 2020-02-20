@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class P688A
+public class P_688A
 {
     public static void main(String[] args)
     {

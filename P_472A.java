@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class P_472A_I {
+public class P_472A {
     public static boolean pn(int num)
     {
         for(int i=2;i<=num/2;i++)

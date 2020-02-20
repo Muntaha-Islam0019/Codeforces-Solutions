@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class P691A {
+public class P_691A {
     public static void main(String []args){
         
         
