@@ -21,5 +21,7 @@ public class P_114A
         {
             System.out.println("NO");
         }
+
+        m.close();
     }
 }

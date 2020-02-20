@@ -32,6 +32,7 @@ public class P_688B {
             }
         }
         
-        System.out.println (max) ;
+        System.out.println(max);
+        sc.close();
     }
 }

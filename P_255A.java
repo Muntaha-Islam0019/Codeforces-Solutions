@@ -45,17 +45,19 @@ public class P_255A {
         }
         
         switch (index) {
-            case 0 :
-                System.out.println ("chest") ;
-                break ;
-            case 1 :
-                System.out.println ("biceps") ;
-                break ;
-            case 2 :
-                System.out.println ("back") ;
-                break ;
+            case 0:
+                System.out.println("chest");
+                break;
+            case 1:
+                System.out.println("biceps");
+                break;
+            case 2:
+                System.out.println("back");
+                break;
             default:
                 break;
         }
+    
+        sc.close();
     }
 }

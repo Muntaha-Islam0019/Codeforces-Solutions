@@ -20,6 +20,7 @@ public class P_344A {
             }
         }
         
-        System.out.println (g) ;
+        System.out.println(g);
+        sc.close();
     }
 }

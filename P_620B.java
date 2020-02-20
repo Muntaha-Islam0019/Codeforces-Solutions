@@ -50,6 +50,7 @@ public class P_620B {
             }
         }
         
-         System.out.println (seg) ;
+        System.out.println(seg);  
+        sc.close();
     }
 }

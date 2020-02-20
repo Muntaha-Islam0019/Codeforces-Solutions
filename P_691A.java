@@ -21,20 +21,19 @@ public class P_691A {
                 System.out.printf("NO\n");}
         }
         else {
-            for(int i=1;i<=n;i++) {
-                int s=to.nextInt();
-                if(s==0)
-                {
+            for (int i = 1; i <= n; i++) {
+                int s = to.nextInt();
+                if (s == 0) {
                     c++;
                 }
             }
-            if(c==1)
-            { System.out.printf( "YES\n");
+            if (c == 1) {
+                System.out.printf("YES\n");
+            } else {
+                System.out.printf("NO\n");
             }
-            else
-            {
-                System.out.printf("NO\n");}
         }
         
+        to.close();
     }
 }

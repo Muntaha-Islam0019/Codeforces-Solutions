@@ -31,6 +31,7 @@ public class P_673A {
             }
         }
         
-        System.out.println (totalMin) ;
+        System.out.println(totalMin);
+        sc.close();
     }
 }

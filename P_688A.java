@@ -13,5 +13,6 @@ public class P_688A
         res += sb.reverse();
         
         System.out.println(res);
+        meow.close();
     }
 }

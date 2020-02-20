@@ -18,17 +18,17 @@ public class P_472A {
             System.out.println(a/2+" "+a/2);
         else
         {
-            b=a/2;
-            for(;b>0;b--)
-            {
-                if(pn(b) || pn(a-b))
+            b = a / 2;
+            for (; b > 0; b--) {
+                if (pn(b) || pn(a - b))
                     continue;
-                else
-                {
-                    System.out.println(b+" "+(a-b));
+                else {
+                    System.out.println(b + " " + (a - b));
                     break;
                 }
             }
         }
+
+        z.close();
     }
 }
